@@ -35,6 +35,9 @@ Interface simples e acessível.
 )**
 
 ---
+👉 **[Clique aqui para ver o tutorial ](https://youtu.be/yiEas3AXIAI)**
+
+---
 
 ## ⚠️ Aviso sobre o Windows Defender/SmartScreen
 
