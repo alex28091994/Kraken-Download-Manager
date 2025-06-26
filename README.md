@@ -22,6 +22,82 @@
 
 ---
 
+## 🚀 Funcionalidades Principais
+
+### 📁 Gerenciamento de Arquivos JSON
+- **Abrir arquivos JSON** com listas de downloads
+- **Editar informações** dos itens (título, links, tamanho, etc.)
+- **Salvar alterações** automaticamente
+- **Unir múltiplos arquivos** em um só
+
+### 🔍 Busca e Organização
+- **Busca rápida** por título dos downloads
+- **Paginação** para listas grandes (400 itens por página)
+- **Filtros** em tempo real
+
+### 📥 Download Inteligente
+- **Detecção automática** de links torrent (.torrent e magnet)
+- **Integração com clientes torrent** (qBittorrent, uTorrent, BitTorrent, etc.)
+- **Download direto** para arquivos normais
+- **Barra de progresso** em tempo real
+
+## 🎯 Como Usar
+
+### 1. Abrir um Arquivo
+- Clique em **"Abrir Arquivo"** ou **"Abrir de URL"**
+- Selecione um arquivo JSON ou cole uma URL
+
+### 2. Editar Downloads
+- **Duplo-clique** em qualquer item da lista
+- Modifique os campos desejados
+- Clique em **"Salvar"** para gravar as alterações
+
+
+### 4. Buscar Downloads
+- Use a **barra de busca** no topo
+- Digite parte do título do que procura
+- A lista filtra automaticamente
+
+
+## 📋 Clientes Torrent Suportados
+
+O app detecta automaticamente:
+- ✅ **qBittorrent** (recomendado)
+- ✅ **uTorrent**
+- ✅ **BitTorrent**
+- ✅ **Deluge**
+- ✅ **Tixati**
+- ✅ **WebTorrent Desktop**
+- ✅ **Transmission**
+
+
+### Para Torrents
+- O app abre automaticamente seu cliente torrent
+- Se nenhum cliente for encontrado, copia o link para a área de transferência
+
+
+### Organização
+- Use a busca para encontrar downloads específicos
+- Edite informações para manter a lista organizada
+- Una arquivos para criar listas maiores
+
+## 🆘 Solução de Problemas
+
+### Cliente Torrent Não Abre
+1. Verifique se está instalado
+2. Teste abrindo manualmente
+3. Use o botão "Copiar Link" se necessário
+
+### Arquivo Não Salva
+1. Verifique permissões da pasta
+2. Certifique-se de que o arquivo não está aberto em outro programa
+
+### Erro de Download
+1. Verifique sua conexão com a internet
+2. Confirme se o link ainda está ativo
+3. Tente novamente
+
+
 ## Instalação Rápida para Usuário Final
 
 Você não precisa compilar nada!
@@ -35,20 +111,6 @@ Você não precisa compilar nada!
 Pronto! O programa estará disponível para uso imediatamente.
 
 ---
-
-**Kraken Download Manager** é um gerenciador de downloads e editor de listas de links (torrent e diretos) com interface moderna em PyQt5, desenvolvido por Dev Prieto.
-
-## Recursos Principais
-- Interface gráfica moderna e responsiva (PyQt5)
-- Suporte a downloads de arquivos e torrents
-- Editor visual de listas JSON
-- Sistema de avaliação por estrelas
-- Busca e filtros avançados
-- Paginação (150 itens por página)
-- Exportação de listas
-- Tema escuro
-- Splash screen personalizada
-- Exportação e união de arquivos JSON
 
 
 ## Licença
