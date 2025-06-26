@@ -17,6 +17,8 @@
 >
 >
 > Fique tranquilo, o programa é seguro e exclusivo do Dev Prieto.
+>
+> 100k de jogos , Basta atualizar lista da comunidade 
 
 ---
 
