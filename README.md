@@ -1,6 +1,58 @@
-# SuperBase - Editor e Gerenciador de Downloads
 
-Um aplicativo simples e eficiente para gerenciar suas listas de downloads e torrents.
+# Kraken Download Manager
+
+
+🕹️ Descrição
+Este programa foi criado pensando em quem é "liso" e quer aproveitar ao máximo o Hydra Launcher. Ele permite que cada usuário crie sua própria lista personalizada de jogos, com total segurança e praticidade. Além disso, o usuário pode compartilhar suas listas com amigos ou com a comunidade.
+
+🌟 Funcionalidades Principais:
+✅ Listas personalizadas: cada usuário pode criar sua lista segura de jogos.
+
+🔐 Segurança: as listas são protegidas, sem riscos ao PC do usuário.
+
+🔄 Compartilhamento: envie e receba listas com outros usuários facilmente.
+
+⭐ Sistema de avaliação por estrelas: veja quais jogos são os mais bem avaliados pela comunidade.
+
+🌍 Lista da comunidade: acesso a uma base com quase 200 mil jogos para garimpar.
+
+🧹 Garimpo de jogos: o usuário pode explorar a lista, selecionar os melhores e excluir os que não quiser.
+
+🚀 Benefícios:
+Ideal para quem quer economizar tempo procurando bons jogos.
+
+Comunidade ativa com curadoria coletiva.
+
+Interface simples e acessível.
+
+
+
+
+
+## 🚀 Baixe o Instalador
+
+👉 **[Clique aqui para baixar o instalador Kraken_Setup.exe](https://drive.google.com/uc?export=download&id=1TCyyoLY3ewy0DUetLfd18PR5xZhI0GXD
+)**
+
+---
+👉 **[Clique aqui para ver o tutorial ](https://youtu.be/yiEas3AXIAI)**
+
+---
+
+## ⚠️ Aviso sobre o Windows Defender/SmartScreen
+
+> **Atenção:**
+>
+> Ao instalar o Kraken Download Manager, o Windows pode exibir um aviso dizendo que o programa é potencialmente prejudicial ou malicioso. Isso é comum para programas novos/distribuídos fora da Microsoft Store.
+>
+> **Se aparecer a tela azul do SmartScreen, clique em "Mais informações" e depois em "Executar assim mesmo".**
+>
+>
+> Fique tranquilo, o programa é seguro e exclusivo do Dev Prieto.
+>
+> 100k de jogos , Basta atualizar lista da comunidade 
+
+---
 
 ## 🚀 Funcionalidades Principais
 
@@ -32,21 +84,12 @@ Um aplicativo simples e eficiente para gerenciar suas listas de downloads e torr
 - Modifique os campos desejados
 - Clique em **"Salvar"** para gravar as alterações
 
-### 3. Baixar Conteúdo
-- Na janela de edição, clique em **"📥 Baixar/Abrir Torrent"**
-- Para torrents: abre automaticamente seu cliente torrent
-- Para arquivos normais: escolha a pasta de destino
 
 ### 4. Buscar Downloads
 - Use a **barra de busca** no topo
 - Digite parte do título do que procura
 - A lista filtra automaticamente
 
-## 🎨 Interface
-
-- **Tema escuro** por padrão (estilo Steam)
-- **Interface responsiva** e intuitiva
-- **Atalhos visuais** para ações principais
 
 ## 📋 Clientes Torrent Suportados
 
@@ -59,36 +102,11 @@ O app detecta automaticamente:
 - ✅ **WebTorrent Desktop**
 - ✅ **Transmission**
 
-## 🛠️ Instalação
-
-1. **Instale o Python** (versão 3.7 ou superior)
-2. **Baixe os arquivos** do projeto
-3. **Instale as dependências:**
-   ```bash
-   pip install -r requirements.txt
-   ```
-4. **Execute o aplicativo:**
-   ```bash
-   python 4.py
-   ```
-
-## 📦 Dependências
-
-- PyQt5 (interface gráfica)
-- requests (downloads)
-- Pillow (imagens)
-- pyperclip (área de transferência)
-
-## 🔧 Dicas de Uso
 
 ### Para Torrents
 - O app abre automaticamente seu cliente torrent
 - Se nenhum cliente for encontrado, copia o link para a área de transferência
 
-### Para Arquivos Normais
-- Escolha a pasta de destino
-- Acompanhe o progresso na barra
-- Cancelamento disponível a qualquer momento
 
 ### Organização
 - Use a busca para encontrar downloads específicos
@@ -111,12 +129,25 @@ O app detecta automaticamente:
 2. Confirme se o link ainda está ativo
 3. Tente novamente
 
-## 📞 Suporte
 
-- **Desenvolvedor:** Prietto
-- **Instagram:** [@prietto_polar](https://www.instagram.com/prietto_polar/)
+## Instalação Rápida para Usuário Final
+
+Você não precisa compilar nada!
+**Basta executar o instalador fornecido:**
+
+1. Baixe o arquivo `Kraken_Setup.exe` (fornecido por Dev Prieto).
+2. Dê dois cliques no arquivo para iniciar a instalação.
+3. Siga as instruções do assistente de instalação.
+4. Após instalar, procure por **Kraken Download Manager** no menu iniciar ou na área de trabalho.
+
+Pronto! O programa estará disponível para uso imediatamente.
 
 ---
 
-**Versão:** 1.2.1  
-**Última atualização:** 2024 
+
+## Licença
+Este software é de uso **exclusivo do desenvolvedor Dev Prieto**.
+
+Desenvolvedor: [Dev Prieto](https://www.instagram.com/prietto_polar/)
+
+© Dev Prieto - Todos os direitos reservados. 
