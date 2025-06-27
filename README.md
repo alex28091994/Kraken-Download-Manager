@@ -145,9 +145,4 @@ Pronto! O programa estará disponível para uso imediatamente.
 ---
 
 
-## Licença
-Este software é de uso **exclusivo do desenvolvedor Dev Prieto**.
 
-Desenvolvedor: [Dev Prieto](https://www.instagram.com/prietto_polar/)
-
-© Dev Prieto - Todos os direitos reservados. 
